@@ -1,7 +1,7 @@
 /** colores*/
-$dark-green-title: red;
+$dark-green-title: rgb(187, 16, 164);
 $dark-green-text: #135359;
-$white: blue;
+$white: rgb(105, 103, 103);
 
 /** fuentes */
 $font-title: "Alegreya", serif;
@@ -12,5 +12,5 @@ $fuente-normal: 1em;
     color: $dark-green-text;
     display: flex;
     font-size: 30px;
-    
+
 }
